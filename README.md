@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Motapothula Sai Karthik</h1>
+<h1 align="center">Hello 👋, I'm Motapothula Sai Karthik</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | CSE @ LPU | NCC Cadet </h3>
 
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
 - 🎓 4th Year B.Tech CSE student @ **Lovely Professional University**
 - 🌱 Currently Learning: `Deep Learning`, `RNNs`, `LSTMs`, `Transformers`
