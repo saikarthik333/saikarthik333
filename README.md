@@ -86,8 +86,7 @@
 
 I'm always intrested and open to meaningful discussions and collaborations on AI, emerging technologies, and real-world problem-solving.
 
-If you’re working on something impactful — or even just exploring ideas —  
-I’d love to connect, learn together, and contribute wherever possible.
+If you’re working on something impactful or even just exploring ideas I’d love to connect, learn together, and contribute wherever possible.
 
 <p align="left">
   <a href="mailto:saikarthikmotapothula333@gmail.com">
