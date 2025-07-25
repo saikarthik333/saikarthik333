@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Motapothula Sai Karthik</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | CSE @ LPU | NCC Cadet </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+ML+Engineer;Data+Science+%7C+Deep+Learning+%7C+NLP;Always+Learning+%2B+Building+%2B+Evolving" alt="Typing SVG" />
-</p>
 
 ---
 
