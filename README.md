@@ -35,7 +35,6 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### Tools & Platforms
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
