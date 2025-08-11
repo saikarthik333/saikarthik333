@@ -35,6 +35,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 #### Tools & Platforms
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -67,10 +68,11 @@
 
 ### 🛠️ Projects
   
+- 🩺 **HealthWise** – AI Symptom Checker & Doctor Locator using {Streamlit, Scikit-learn, Pandas, Geopy}
+- 📝 **Product Review Analysis** – Sentiment Analysis & Fake Review Detection (NLP) using {TensorFlow, Hugging Face, Scikit-learn, Streamlit}
 - 🔍 **Anomaly Detection** – Financial Fraud Detection using K-Means & DBSCAN  
 - 🧠 **Text Summarizer** – Built using BART Transformer (NLP)  
-- 📊 **Customer Segmentation** – Using Clustering Algorithms on real-world data  
-
+- 📊 **Customer Segmentation** – Using Clustering Algorithms on real-world data
 > 🔗 More projects & blogs coming soon...
 
 ---
@@ -102,4 +104,3 @@ If you’re working on something impactful or even just exploring ideas I’d lo
 </a>
 
 </p>
-
