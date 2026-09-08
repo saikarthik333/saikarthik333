@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 4th Year B.Tech CSE student @ **Lovely Professional University**
+- 🎓 B.Tech CSE AIML Graduate From **Lovely Professional University**
 - 🌱 Currently Learning: `Deep Learning`, `RNNs`, `LSTMs`, `Transformers`
 - 🧑‍🔬 Exploring: AI Agents, LLMs, and Real-Life ML Applications
 - 🫡 Proud **NCC Cadet** from **Warangal, Telangana**
